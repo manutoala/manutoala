@@ -60,7 +60,6 @@ I've had the privilege of working with **top-tier disruptive companies** in:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manutoala&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manutoala&layout=compact&theme=dark&hide_border=true)
 
